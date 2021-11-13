@@ -1,0 +1,30 @@
+h2 {
+    color:chocolate
+}
+.h2{
+    color:black
+}  
+table,th,td,thead,tbody {
+    border: 1px solid black;
+    font-family: Georgia;
+}
+table{
+    width: 800px;
+}
+ thead{
+    background-color:chocolate;
+}
+.tr{
+    background-color: aqua;
+}
+ul{
+    font-family: Georgia;
+}
+spam {
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
