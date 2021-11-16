@@ -7,9 +7,12 @@ h2 {
 table,th,td,thead,tbody {
     border: 1px solid black;
     font-family: Georgia;
+    
 }
 table{
     width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
  thead{
     background-color:chocolate;

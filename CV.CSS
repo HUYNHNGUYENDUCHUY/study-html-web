@@ -1,0 +1,42 @@
+img {
+    filter: grayscale(100%);
+     -webkit-filter: grayscale(100%);
+     -moz-filter: grayscale(100%);
+     -ms-filter: grayscale(100%);
+     -o-filter: grayscale(100%);
+     position: relative;
+     left: 200px;
+}
+td{
+    position: relative;
+    text-align: right;
+    font-family: Georgia;
+    left: -50px;
+    top:-20px
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+P{
+    font-weight: 700;
+    font-size: 20px;
+}
+.table,.tr{
+    position: relative;
+    left: 50px;
+    font-size:13px;
+    color:rgb(124, 123, 123);
+    width: 800px;
+    overflow: auto;
+}
+.td {
+    text-align: left;
+    width: 650px;
+    
+}
+b{
+    color: black;
+}
+h5{
+    color: aqua;
+}
